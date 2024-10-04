@@ -1,4 +1,4 @@
-<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Win11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.8.4">v3.8.4</a>) </h1>
+<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Windows (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.8.4">v1.0</a>) </h1>
 
 <h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
