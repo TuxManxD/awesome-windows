@@ -7,11 +7,7 @@
 
   <img width=20px src="https://i.imgur.com/2yjdLcp.png"> https://uupdump.net
   <br>
-  <img width=20px src="https://tb.rg-adguard.net/favicon.ico"> https://tb.rg-adguard.net/public.php
-  <br>
   <img width=20px src="https://uup.rg-adguard.net/favicon.ico"> https://uup.rg-adguard.net
-  <br>
-  <img width=20px src="https://i.imgur.com/VzGUTpz.png"> [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   <br>
   <img width=20px src="https://raw.githubusercontent.com/TuxManxD/ico/refs/heads/main/favicon.ico"> https://massgrave.dev/genuine-installation-media
   <br> 
