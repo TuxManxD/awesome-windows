@@ -13,10 +13,8 @@
   <br>
   <img width=20px src="https://i.imgur.com/VzGUTpz.png"> [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   <br>
-  https://github.com/pbatard/Fido
-  <br>
-  https://forum.rg-adguard.net/forums/windows-10.75/
-  
+  <img width=20px src="https://raw.githubusercontent.com/TuxManxD/ico/refs/heads/main/favicon.ico"> https://massgrave.dev/genuine-installation-media
+  <br> 
 <h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
 
   <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
@@ -39,7 +37,6 @@
   <br>
   Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
   <br>
-  WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
   <br>
   [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
   <br>
@@ -47,7 +44,6 @@
   <br>
   [Rectify11](https://rectify.vercel.app)
   <br>
-  [BlissOS](https://blissos.org/index.html)
 
 <h3 align="center">💽 Bypass TPM</h3>
 
@@ -76,9 +72,3 @@
   https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
   <br>
   https://github.com/AndrewRathbun/VanillaWindowsReference
-
-<h3 align="center">Versions Windows</h3>
-
-  https://github.com/awesome-windows11/windows11/tree/main/version
-  <br>
-  https://changewindows.org/timeline/pc
