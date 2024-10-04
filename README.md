@@ -721,22 +721,3 @@ Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it
   ```
 </details>
 
-### <h1 align="center">🔗 Links</h1>
-
-Реестр проводника:
-- http://www.rusdoc.ru/material/os/win/reestr.shtml
-- https://ss64.com/nt/syntax-reghacks.html
-- http://centaz.narod.ru/winwork2.html
-
-Памятка по командной строке (cmd.exe):
-- https://ab57.ru/cmdlist.html
-- https://renenyffenegger.ch/notes/Windows
-- https://admx.help
-
-
-### <h1 align="center">Stats</h1>
-
-[![Stargazers over time](https://starchart.cc/awesome-windows11/windows11.svg)](https://starchart.cc/awesome-windows11/windows11)
-
-
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=55314&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
