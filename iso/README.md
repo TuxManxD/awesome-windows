@@ -11,17 +11,9 @@
   <br>
   <img width=20px src="https://raw.githubusercontent.com/TuxManxD/ico/refs/heads/main/favicon.ico"> https://massgrave.dev/genuine-installation-media
   <br> 
-<h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
-
-  <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
-  <br>
-  <img width=20px src="https://i.imgur.com/Fzky91J.png"> https://www.sordum.org/8705/simple-vhd-manager-v1-4
-
 <h3 align="center">3. Install ISO ⬇</h3>
 
-  [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
-  <br>
-  https://msfn.org/board/topic/149612-winntsetup-v53
+  [❗ My files]
   <br>
   Insider without Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
   <br>
@@ -45,16 +37,6 @@
 
   [TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
   <br>
-  https://github.com/quickfever/Windows-11-Bypass-TPM
-  <br>
-  https://github.com/haithamaouati/BypassWin11
-  <br>
-  https://github.com/shirooo39/Windows-11-Bypass
-  <br>
-  https://github.com/rushiranpise/win11devbypass
-  <br>
-  https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
-
 <h3 align="center">Hash ISO</h3>
 
   [💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
