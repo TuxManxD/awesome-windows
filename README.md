@@ -9,14 +9,6 @@ Our mission is to show that it is possible to configure Windows without using th
 <br>
 No files or programs, just console and commands!
 
-> MORE PROJECTS: https://github.com/awesome-windows11
-> <br>
-> Site: https://windows12.glitch.me
-> <br>
-> VK: https://vk.com/flighthub
-> <br>
-> Telegram: https://t.me/windows11_chat
-
 ### <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
 https://github.com/eksime/VDesk
@@ -29,15 +21,10 @@ Check system file: https://winbindex.m417z.com
 <br>
 <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
 <br>
-https://github.com/farag2/Utilities
-
-[HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 
 ### <h3 align="center"><img width=25px src="https://i.ibb.co/YpmKpwn/defender.png"></img> Windows Defender</h3>
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
-<br>
-https://github.com/swagkarna/Defeat-Defender-V1.2
 <br>
 https://github.com/AndyFul/ConfigureDefender
 <br>
@@ -55,10 +42,6 @@ Disabling all windows update services: https://github.com/WereDev/Wu10Man
 
 https://github.com/Digressive/Remove-MS-Store-Apps
 <br>
-https://github.com/Sycnex/Windows10Debloater
-<br>
-https://github.com/Fs00/Win10BloatRemover
-<br>
 https://github.com/equk/windows
 <br>
 https://github.com/r33int/Windows10-Postinstall
@@ -73,28 +56,15 @@ https://github.com/ChrisTitusTech/winutil
 
 Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11
 <br>
-Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer
-<br>
 Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher
 <br>
 https://github.com/undergroundwires/privacy.sexy
 <br>
 https://github.com/mikeroyal/Windows-11-Guide
 <br>
-https://github.com/xanderfrangos/twinkle-tray
-<br>
 https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/
 <br>
 Manager context menu: https://nilesoft.org
-<br>
-https://github.com/builtbybel/ThisIsWin11
-<br>
-☠ OUTDATED! https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix
-<br>
-☠ OUTDATED! https://github.com/hahagu/WindowsThumbnailGenerator
-<br>
-☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM
-
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
 
@@ -260,16 +230,6 @@ StartMenu Local:
   Download: https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip
   <br>
   ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png)
-
-</details>
-
-<details><summary><b>🎨 Icons</b></summary>
-
-  [Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
-  <br>
-  [shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
-
-  <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
 
 </details>
 
@@ -650,74 +610,4 @@ Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it
   taskkill /F /IM explorer.exe
   start explorer.exe
   ```
-
-</details>
-
-<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/6585/6585361.png"> TaskBar Size (Small, medium, big)</b></summary>
-
-  ![image](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)![image](https://user-images.githubusercontent.com/87380272/184697771-360498b3-207d-4873-a91e-139d5928da91.png)
-  
-  **Small TaskBar**
-
-  ```powershell
-  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 0 /f
-  taskkill /F /IM explorer.exe
-  start explorer.exe  
-  ```
-
-  **Medium TaskBar**
-
-  ```powershell
-  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 1 /f
-  taskkill /F /IM explorer.exe
-  start explorer.exe  
-  ```
-
-  ### Big TaskBar
-
-  ```powershell
-  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 2 /f
-  taskkill /F /IM explorer.exe
-  start explorer.exe  
-  ```
-</details>
-
-<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/6585/6585361.png"> TaskBar Layout (Top, bottom)</b></summary>
-
-  ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png)
-
-  Change the location of the taskbar
-
-  **Up TaskBar ⬆**
-
-  ```powershell
-  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000001000000300000002000000000000000c203000080070000e20300006000000001000000 /f
-  ```
-
-  **Down TaskBar ⬇**
-
-  ```powershell
-  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000003000000300000002000000000000000c203000080070000e20300006000000001000000 /f
-  ```
-
-  **Left TaskBar ⬅**
-
-  > **Warning**
-  > <br>
-  > Causes bugs, do not use!
-
-  ```powershell
-  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000000000000300000002000000000000000c203000080070000e20300006000000001000000 /f
-  ```
-
-  **Right TaskBar ➡**
-
-  > **Warning**
-  > <br>
-  > Causes bugs, do not use!
-
-  ```powershell
-  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000002000000300000002000000000000000c203000080070000e20300006000000001000000 /f
-  ```
-</details>
 
