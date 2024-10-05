@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</h3>
+<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</h3>
 
 <h3 align="center">❗ How to install Windows 11 on a computer, without a flash drive?</h3>
 
