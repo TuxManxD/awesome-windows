@@ -1,7 +1,5 @@
 <h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
-### Ad blockers [are over](https://github.com/awesome-windows11/CensorNet/blob/main/browser/manifestv3.md)! Switch to the right browsers.
-
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
 ### AutoRun
