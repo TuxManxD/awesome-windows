@@ -17,14 +17,14 @@ Get-AppxPackage –AllUsers
 <img width=40% src="https://github.com/awesome-windows11/windows11/assets/87380272/a218937d-b08e-42e3-a9d5-f5057237439a">
 
 
-### Как посмотреть последние файлы открытые на ПК?
+### How do I see the latest files I have opened on my PC?
 ```
 %UserProfile%\AppData\Roaming\Microsoft\Windows\Recent
 ```
-### Как включить режим бога панель управления (GodMode?)
-Не работает в последних версиях, где панель управления вырезали (2004+)
+### How to get all control panel shortcuts (GodMode?)
+Make a shortcut then paste the text below (2004+)
 
-Создайте папку с именем:
+Shell command:
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
