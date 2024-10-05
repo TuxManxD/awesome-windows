@@ -64,6 +64,8 @@ https://github.com/mikeroyal/Windows-11-Guide
 https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/
 <br>
 Manager context menu: https://nilesoft.org
+<br>
+Make Windows 11 Consistent: https://github.com/IviriusCommunity/ReboundHub
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
 
