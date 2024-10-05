@@ -24,7 +24,6 @@ Check system file: https://winbindex.m417z.com
 
 ### <h3 align="center"><img width=25px src="https://i.ibb.co/YpmKpwn/defender.png"></img> Windows Defender</h3>
 
-[Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
 https://github.com/AndyFul/ConfigureDefender
 <br>
