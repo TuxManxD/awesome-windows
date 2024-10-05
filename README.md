@@ -1,6 +1,6 @@
 <h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Windows (<a href=>v1.0</a>) </h1>
 
-<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
+<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href=https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
 🪟 First help for setup, tweaks and ISO images
 
@@ -367,16 +367,6 @@ StartMenu Local:
 _The code is in the process of being written_
 
 Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it-the-default/
-  
-</details>
-
-<details><summary><b><img width=20px src="https://web.telegram.org/a/icon-192x192.png"> Open tg:// Telegram Portable</b></summary>
-  
-  ```powershell
-  reg add "HKEY_CURRENT_USER\SOFTWARE\Classes\tdesktop.tg\shell\open\command" /ve /d ""G:\Apps\Telegram\Telegram.exe" -workdir "G:/Apps/Telegram/" -- "%1"" /f
-  pause
-  ```
-</details>
 
 <details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img> VsCode Default Editor</a></b></summary>
 
