@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
+<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
 ### Ad blockers [are over](https://github.com/awesome-windows11/CensorNet/blob/main/browser/manifestv3.md)! Switch to the right browsers.
 
@@ -10,7 +10,7 @@
 <img width=20px src="https://i.imgur.com/J0L0kl3.gif"> https://www.nirsoft.net/utils/what_run_in_startup.html
 
 ### Privacy / SpyBlock
-https://github.com/ChrisTitusTech/winutil
+[AIO Utility for Windows 10 and 11](https://github.com/ChrisTitusTech/winutil)
 <br>
 
 ### Manager Partition
