@@ -28,7 +28,7 @@ Western Digital: https://support-en.wd.com/app/products/downloads/softwaredownlo
 ### Unlock File
 https://www.majorgeeks.com/files/details/iobit_unlocker.html
 
-### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet
+### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Torrent
 qBittorrent: https://www.qbittorrent.org/
 <br>
 
