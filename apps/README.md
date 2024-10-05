@@ -9,6 +9,7 @@
 
 ### Privacy / SpyBlock
 [AIO Utility for Windows 10 and 11](https://github.com/ChrisTitusTech/winutil)
+https://www.oo-software.com/en/shutup10
 <br>
 
 ### Manager Partition
