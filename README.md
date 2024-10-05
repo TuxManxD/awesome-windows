@@ -1,6 +1,6 @@
 <h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Windows (<a href=>v1.0</a>) </h1>
 
-<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href=https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
+<h3 align="center"> <a href="https://github.com/TuxManxD/awesome-windows?tab=readme-ov-file#-tweaks-win11"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/TuxManxD/awesome-windows/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
 🪟 First help for setup, tweaks and ISO images
 
