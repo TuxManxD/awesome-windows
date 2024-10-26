@@ -11,7 +11,6 @@ No files or programs, just console and commands!
 
 ### <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
-https://github.com/eksime/VDesk
 <br>
 Check system file: https://winbindex.m417z.com
 <br>
@@ -46,8 +45,6 @@ https://github.com/equk/windows
 https://github.com/r33int/Windows10-Postinstall
 <br>
 https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
-<br>
-https://github.com/simeononsecurity/Windows-Optimize-Debloat
 <br>
 https://github.com/ChrisTitusTech/winutil
 
